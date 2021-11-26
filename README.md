@@ -2,6 +2,8 @@
 
 #### Vulnmachines.com is online cybersecurity learning platform with realtime vulnerabilities. 
 
+### Checkout our Platform [Vulnmachines.com](https://www.vulnmachines.com)
+
 #### Our YouTube channel [Rapidsafeguard](https://www.youtube.com/c/rapidsafeguard)
 
 <!--
