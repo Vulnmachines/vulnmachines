@@ -4,7 +4,9 @@
 
 ### Checkout our Platform [Vulnmachines.com](https://www.vulnmachines.com)
 
-#### Our YouTube channel [Rapidsafeguard](https://www.youtube.com/c/rapidsafeguard)
+#### Our YouTube channel [Vulnmachines](https://www.youtube.com/c/vulnmachines)
+
+#### Follow us [Vulnmachines](https://www.twitter.com/vulnmachines)
 
 <!--
 **Vulnmachines/vulnmachines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
