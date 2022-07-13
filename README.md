@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Vulnmachines.com is online cybersecurity learning platform with realtime vulnerabilities. 
+#### Vulnmachines is a cybersecurity learning platform where security enthusiasts can get a hands-on experience of various skills in different cybersecurity categories through Capture The Flag Contests.
 
 ### Checkout our Platform [Vulnmachines.com](https://www.vulnmachines.com)
 
