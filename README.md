@@ -7,6 +7,10 @@
 #### Our YouTube channel [Vulnmachines](https://www.youtube.com/c/vulnmachines)
 
 #### Follow us [Vulnmachines](https://www.twitter.com/vulnmachines)
+#### [YouTube](https://www.youtube.com/c/vulnmachines)
+#### [Twitter](https://www.twitter.com/vulnmachines)
+#### [Facebook](https://www.facebook.com/vulnmachines)
+#### [LinkedIn](https://www.linkedin.com/company/vulnmachines)
 
 <!--
 **Vulnmachines/vulnmachines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
